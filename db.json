@@ -3,7 +3,7 @@
         {"UserName": "Prueba", "Email": "prueba@example.com", "Password": "secretoprueba"},
         {"UserName": "Prueba1", "Email": "prueba1@example.com", "Password": "secretoprueba1"}
     ],
-    "comments": [
+    "users": [
         {"UserName": "Prueba2", "Email": "prueba2@example.com", "Password": "secretoprueba2"},
         {"UserName": "Prueba3", "Email": "prueba3@example.com", "Password": "secretoprueba3"},
         {"UserName": "Prueba4", "Email": "prueba4@example.com", "Password": "secretoprueba4"}
